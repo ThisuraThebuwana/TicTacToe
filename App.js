@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
     height: 100,
   },
   tileX: {
-    color: "red",
+    color: "blue",
     fontSize: 60,
   },
   tileO: {
